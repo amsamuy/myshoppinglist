@@ -1,0 +1,48 @@
+    background-color: LightGray;
+}
+div {
+    border: 0px solid Chocolate;
+}
+.mainheader h1{
+    text-align: center;
+}
+
+/* Input Section */
+
+.inputContainer {
+    margin-top: 30px;
+    margin-bottom: 25px;
+    padding: 10px; 
+    background-color: lightcoral;
+}
+
+/*List Section*/
+
+.listItem {
+    background-color: lemonchiffon;
+    background-image: url('../images/cutebag.jpg');
+    background-repeat: no-repeat;
+    background-position: 100% 80%;
+    padding-top: 25px; 
+    padding-left: 25px;
+    padding: 25px;
+}
+#list li{
+    list-style: none;
+    border-top: 1px dotted lightcoral;
+    margin-lef: 0px;
+}
+.listItem ul{
+    padding: 0px;
+    padding-right: 180px;
+}
+#squaredThree{
+    margin-right: 10px;
+
+}
+.edit .delete{
+    margin: 0px;
+    padding: 0px;
+}
+}
+}
